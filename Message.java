@@ -1,5 +1,5 @@
 package messenger_project;
-
+import java.util.*;
 public class Message {
 	 private Friend author;
 	    private String message;
